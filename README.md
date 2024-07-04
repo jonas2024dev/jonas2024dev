@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jonas2024dev
-- 👀 I’m interested in ...dev proyects,data sciense
+- 👀 I’m interested in ...dev proyects,data science
 - 🌱 I’m currently learning ...python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
